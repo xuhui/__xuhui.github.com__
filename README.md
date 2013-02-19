@@ -1,4 +1,4 @@
-xuhui.githui.com
+xuhui.github.com
 ================
 
 Pages
